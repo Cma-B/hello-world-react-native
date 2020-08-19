@@ -23,5 +23,8 @@
     "detox-expo-helpers": "^0.6.0",
     "expo-detox-hook": "^1.0.10"
   },
-  "private": true
+  "private": true,
+  "jest": {
+    "preset": "jest-expo"
+  }
 }
